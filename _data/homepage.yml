@@ -1,7 +1,7 @@
 hero:
   image: "https://farm8.staticflickr.com/7612/16769981825_d9fff56ce3_s.jpg"
-  heading: "Code Candy"
-  subtitle: "Learn to code by creating fun apps"
+  heading: "Instagram Clone with Angular"
+  subtitle: "Build an Instagram clone using Angular.js with Ionic, the wrapper for web apps to allow them into the app store."
 
 testimonial:
   quote: "After making $1M reaching over 100,000 students with our online courses since April this year, we decided to partner with the online course hosting tool <a href='http://usefedora.com/?src=mdi-quote' target='_blank'>Fedora</a>, to develop a comprehensive course to how anyone can start from ground zero, which is where we began, to profit from their own online course."
