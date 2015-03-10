@@ -4,9 +4,9 @@ hero:
   subtitle: "Build an Instagram clone using Angular.js with Ionic, the wrapper for web apps to allow them into the app store."
 
 testimonial:
-  quote: "After making $1M reaching over 100,000 students with our online courses since April this year, we decided to partner with the online course hosting tool <a href='http://usefedora.com/?src=mdi-quote' target='_blank'>Fedora</a>, to develop a comprehensive course to how anyone can start from ground zero, which is where we began, to profit from their own online course."
-  person: "<strong>Eliot Arntz</strong>, <em>Co-Founder at Online School, Bitfountain.io</a></em>"
-  image: "https://d2vvqscadf4c1f.cloudfront.net/SiIUb8dRiqltbq6VVtDT_93f1547d32a37b972ec733e65c2d63e4.jpeg"
+  quote: "Hi, I'm Ben from Code Candy. In this course I'll teach you how to create an Instragram clone with Angular and Ionic, 2 amazing frameworks that really help you in your coding journey. I'm a former Graduate of the General Assembly coding program so I understand what it's like to learn new concepts and languages. So that's why I take extra care to help explain step by step how we build really great looking applications. I will help you learn in a simple, easy to understand way. So join me in this course and put your coding career into action."
+  person: "<strong>Ben Cochrane</strong>, <em>Co-Founder at Code Candy, codecandy.co</a></em>"
+  image: "http://s10.postimg.org/dfz16pf7d/ben.jpg"
 
 about:
   title: "About the Course"
